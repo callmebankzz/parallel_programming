@@ -1,4 +1,4 @@
-# Parallel Programming Class Repository
+# Parallel Programming Repository
 ---
 
 ## Overview
